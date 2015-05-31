@@ -1,0 +1,11 @@
+﻿Hiệu quả thiết kế giao diện:
+- 5 thành phần thiết kế:
+	+ Khả năng sữ dụng hệ thống thế nào.
+	+ Mô hình liên quan đến TKGD
+	+ Một số nguyên lý thiết kế gioa diện
+- Hiệu quả của giao diện
+- Mô hình:
+	+ Hệ thống 
+	+ Người dùng
+	+ Interface
+- Mong muốn làm cho mô hình người dùng và mô hình interface cùng tương đồng càng tốt.
