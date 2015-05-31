@@ -1,0 +1,18 @@
+﻿Bài tập PA2 khá là mệt, anh em cố gắng làm xong sớm cho tui tổng hợp nha @@ 
+Có 3 tài liệu cần hoàn thành:
+- Vision Document (20 điểm) là tài liệu mô tả tổng quan về mục tiêu và vị trí của hệ thống trong tương lai.
+- Requirements Document (70 điểm) Trình bày về các actor và use-case (Tui vừa lên 3 actor và 5 use -case chính nhất mọi người xem xét bổ sung nha)
+- Review Record (5 điểm)- Sau khi hoàn thành bài Requirements Document thì mổi thành viên sẽ xem lại một lần nữa và tìm những chố chưa hợp lý, chổ nào không hợp lý thì ghi lại vào Review Record để ng làm phần đó bổ sung.
+Những công việc gồm:
+1. Viết giới thiệu tổng quan cho Vision Document (C)
+2. Viết Positioning cho Vision Document  (B)
+3. Viết User Description cho Vision Docment (A)
+4. Ghi lại Summary of Capabilities cho Vision Docment (C)
+5. Mô tả actor (Người dùng, Hệ thống dữ liệu bài hát, Facebook Server) (B)
+6. Mô tả use-case 5 cái (Xem trong template up lên) (C)
+7. Thiết kế Object Model (Vẽ hình cho nhanh) (B)
+
+Chú ý:
+ - Hoàn thành trước 23h00 thứ 7 gửi toàn bộ để mình tổng hợp nha !
+ - Ngày Chủ nhật (buổi sẽ chọn sau) online Garena Chat Voice để nói về Review Record sữa lỗi từng người !
+Link dow các template mẫu (file PA 2.rar): 
